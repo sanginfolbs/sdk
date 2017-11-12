@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  gpsindoor
+
+  Created by Sanginfo on 04/07/15.
+  Copyright (c) 2015 indooratlas. All rights reserved.
+*/
+"Please select the level you are on."="Welcome to %@.\nPlease select the level you are on.";
+"Have you entered Level"="Are you going %@ to Level %@?";
+"Are you changing levels?"="Are you changing levels?\nSelect a level you are moving to and tap Change";
+"We are Almost There" = "we're almost there...";
+"oops... we've lost you!" = "Trying to locate you.";
+"We found you" = "Yay... We've found you";
+"Acquiring location"="Acquiring Location";
+"keep walking my friend"="Keep walking my friend....";
+"win back your position"="win back your position";
+"Calibration needed!"="Please tilt your phone a couple of times.";
+"Waiting For Fix"="Are you hiding from us?";
+"reading 1"="Are you hiding from us?";
+"reading 2"="Are you hiding from us?";
+"reading 3"="Are you hiding from us?";
+"reading 4"="You seem close by";
+"reading 5"="You seem close by";
+"reading 6"="You seem close by";
+"reading 7"="You seem close by";
+"reading 8"="You seem close by";
+"reading 9"="You seem close by";
+"reading 10"="You seem close by";
+"discovering location"="You seem close by";
+//Couch mark
+"Tap here to change venue, view promotions or use buddy finder"="Tap here to change venue, view promotions or use buddy finder";
+"Tap here to search for stores or products"="Tap here to search for stores or products";
+"Tap here to locate ATM's, Restrooms or Exits"="Tap here to locate ATM's, Restrooms or Exits";
+"Tap on a floor to view the map of that level"="Tap on a floor to view the map of that level";
+"Double Tap to move to another level"="Double tap on a floor to indicate you are present on that floor";
+"Great! You can always replay this from the settings menu by selecting 'Play Tutorial'"="Great! \nYou can always replay this tutorial from the settings menu.";

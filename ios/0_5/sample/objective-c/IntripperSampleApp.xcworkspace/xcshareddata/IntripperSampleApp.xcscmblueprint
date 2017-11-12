@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "af93ed4c-36fc-0349-ab74-6175bd15770d++7034",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "af93ed4c-36fc-0349-ab74-6175bd15770d++7034" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "af93ed4c-36fc-0349-ab74-6175bd15770d++7034" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78278351-B7F5-4B0D-8812-97517DB59DC4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "af93ed4c-36fc-0349-ab74-6175bd15770d++7034" : "SDKSample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IntripperSampleApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IntripperSampleApp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.76\/svn\/InTripper",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "af93ed4c-36fc-0349-ab74-6175bd15770d++7034"
+    }
+  ]
+}
